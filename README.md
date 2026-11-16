@@ -1,4 +1,4 @@
-## Hi there 👋
+## Starting my Github journey... 👋
 
 <!--
 **remijmjs/remijmjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
